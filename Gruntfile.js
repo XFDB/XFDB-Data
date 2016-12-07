@@ -29,3 +29,6 @@
  * --/The Heart of Build System/-- of "XFDB®-Data".
  * ___________________________________________________________________________
  */
+
+
+// "disallowMultipleSpaces": {"allowEOLComments": true}
