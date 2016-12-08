@@ -43,3 +43,7 @@
 // # Usage: $ node -v
 // # Usage: $ npm -v
 // # Usage: $ grunt -version
+
+
+// Invoking strict mode.
+"use strict";
